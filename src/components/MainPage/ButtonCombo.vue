@@ -6,7 +6,7 @@
         <button type="button" class="btn btn-dark" onclick="location.href='https://www.instagram.com/hotheadfactory'">Instagram</button>
         </div>
         <div class="button-single">
-        <button type="button" class="btn btn-dark" onclick="location.href='https://hotheadfactory.com'">GitHub</button>
+        <button type="button" class="btn btn-dark" onclick="location.href='https://github.com/hotheadfactory'">GitHub</button>
         </div>
     </div>
 </template>
