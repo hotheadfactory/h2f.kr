@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import MainPage from '@/components/MainPage/index'
+import MainPage from '@/components/MainPage/Index'
+import Introduction from '@/components/MainPage/Introduction'
 
 Vue.use(Router)
 
@@ -11,6 +12,11 @@ export default new Router({
       path: '/',
       name: 'mainpage',
       component: MainPage
+    },
+    {
+      path: '/introduction',
+      name: 'introduction',
+      component: Introduction
     }
   ]
 })

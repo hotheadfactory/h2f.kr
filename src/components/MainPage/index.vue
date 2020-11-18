@@ -1,7 +1,8 @@
 <template>
   <div class="hello">
+    <p class="quote">The empires of the future are the empires of the mind. - Winston Churchill</p>
     <img class="logo" src="../../assets/splash.jpg" alt="Hothead Factory">
-    <h2>Available Services:</h2>
+
     <services />
     <button-combo />
     <copyright />
@@ -51,7 +52,12 @@ li {
 a {
   color: white;
 }
+
 .hello {
   color: white;
+}
+
+.quote {
+  color: gray;
 }
 </style>
