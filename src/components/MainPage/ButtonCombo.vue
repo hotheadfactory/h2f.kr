@@ -1,12 +1,14 @@
 <template>
     <div class="button-combo-wrapper">
-        <div class="button-combo">
-        <button type="button" class="btn btn-dark" onclick="location.href='https://hotheadfactory.com'">blog</button>
-        <button type="button" class="btn btn-dark" onclick="location.href='https://www.youtube.com/channel/UCMFvYIfeIdZeEWR0hthBOXQ'">YouTube</button>
-        <button type="button" class="btn btn-dark" onclick="location.href='https://www.instagram.com/hotheadfactory'">Instagram</button>
+        <div class="button-single">
+        <button type="button" class="btn btn-dark" onclick="location.href='https://hotheadfactory.com'">
+        <img src="../../assets/apple-icon.png" width="18px"> Blog
+        </button>
         </div>
         <div class="button-single">
-        <button type="button" class="btn btn-dark" onclick="location.href='https://github.com/hotheadfactory'">GitHub</button>
+        <button type="button" class="btn btn-dark" onclick="location.href='https://github.com/hotheadfactory'">
+        <img src="../../assets/GitHub-Mark-Light-64px.png" width="18px"> GitHub
+        </button>
         </div>
     </div>
 </template>
@@ -20,7 +22,7 @@
 }
 
 .btn-dark {
-  background-color: #343A40;
+  background-color: #222222;
   color: white;
 }
 
@@ -51,7 +53,7 @@
 }
 
 .button-combo>.btn {
-  width: 32%
+  width: 49%
 }
 
 .button-single>.btn {
