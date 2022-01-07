@@ -1,7 +1,7 @@
 <template>
     <div class="button-combo-wrapper">
         <div class="button-single">
-        <button type="button" class="btn btn-dark" onclick="location.href='https://hotheadfactory.com'">
+        <button type="button" class="btn btn-dark" onclick="location.href='https://blog.h2f.kr'">
         <img src="../../assets/apple-icon.png" width="18px"> Blog
         </button>
         </div>
