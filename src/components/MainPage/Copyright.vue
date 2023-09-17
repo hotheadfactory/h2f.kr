@@ -13,7 +13,7 @@
         </div>
     </div>
     <p>
-        © 2018 - 2021 Hothead Factory. All rights reserved.
+        © 2018 - 2023 Hothead Factory. All rights reserved.
     </p>
 </div>
 </template>
