@@ -13,7 +13,7 @@
         </div>
     </div>
     <p>
-        © 2018 - 2025 Hothead Factory
+        © 2018 - 2026 Hothead Factory
     </p>
 </div>
 </template>
